@@ -118,3 +118,4 @@ full_model <- glm(outcome ~ payment_inc_ratio + purpose +
                   data = loan_data, weight = wt, family = 'binomial')
 pred <- predict(full_model)
 mean(pred > 0)
+

@@ -50,3 +50,4 @@ rpois(100, lambda = 2)
 ## Distribuição Exponencial
 
 rexp(n = 100, rate = .2)
+

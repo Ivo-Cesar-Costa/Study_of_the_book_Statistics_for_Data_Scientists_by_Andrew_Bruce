@@ -72,3 +72,4 @@ h = effect size (as a proportion)
 n = sample size
 sig.level = the significance level (alpha) at which the test will be conducted
 power = power(probability of detecting the effect size)
+

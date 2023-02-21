@@ -99,3 +99,4 @@ ggplot(subset(kc_tax0, ZipCode %in% c(98188,98105,98108,98126)),
   #scale_fill_gradient( low="white", high="blue") + 
   labs(x = "Finished Square Feet", y = "Tax Assessed Value") + 
   facet_wrap("ZipCode")
+

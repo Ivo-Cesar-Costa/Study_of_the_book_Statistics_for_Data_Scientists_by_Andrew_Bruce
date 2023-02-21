@@ -141,3 +141,4 @@ for(i in 1:nrow(params)){
 
 avg_error <- 100*rowMeans(error)
 cbind(params, avg_error)
+
